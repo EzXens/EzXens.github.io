@@ -19,8 +19,7 @@
     <div class="navbar">
     <a href="index.php" id="home"><i data-feather="home"></i>HOME</a>  
     <a href="animelist.php" id="list"><i data-feather="list"></i>Anime List</a> 
-    <a href="aboutme.php" id="user"><i data-feather="user"></i>ABOUT ME</a></li>
-    <a href="crud.php" id="admin"><i data-feather="user"></i>Menu Admin</a>
+    <a href="aboutme.php" id="user"><i data-feather="user"></i>ABOUT ME</a>
     <!-- <input type="text" placeholder="Search.."> -->
     </div>
     
