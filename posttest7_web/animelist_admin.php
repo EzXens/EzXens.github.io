@@ -37,7 +37,7 @@ while ($row = mysqli_fetch_assoc($result)) {
 
     <title>EzAnime</title>
     <script src="https://unpkg.com/feather-icons"></script>
-    <link rel="stylesheet" href="styleanimelists.css">
+    <link rel="stylesheet" href="styleanimelist.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 
