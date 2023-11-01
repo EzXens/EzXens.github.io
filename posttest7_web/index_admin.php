@@ -80,7 +80,7 @@ if (isset($_SESSION['username'])) {
         <main class="content">
             <h1 class="dongo">This Website Contains <span id="dongo">My Anime List</span></h1>
             <p>Selamat Datang Di Website Saya ,Di Website Ini Menyediakan Beberapa List Anime</p>
-            <a href="animelist.php" class="lihat" id="lihat">
+            <a href="animelist_admin.php" class="lihat" id="lihat">
                 Lihat Sekarang
             </a>
         </main>
