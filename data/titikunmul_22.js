@@ -1,0 +1,1 @@
+var json_titikunmul_22 = {"type":"FeatureCollection","name":"titikunmul_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"unmul"},"geometry":{"type":"Point","coordinates":[117.155744172798322,-0.465730842882117]}}]}
